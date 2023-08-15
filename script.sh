@@ -1,6 +1,6 @@
-NEXUS_USERNAME="yourNexusUsername"
-NEXUS_PASSWORD="yourNexusPassword"
-NEXUS_UPLOAD_URL="http://yourNexusUrl/repository/yourRepositoryName"
+NEXUS_USERNAME="<yourNexusUsername>"
+NEXUS_PASSWORD="<yourNexusPassword>"
+NEXUS_UPLOAD_URL="http://<yourNexusUrl>/repository/<yourRepositoryName>"
 
 # Function to upload an artifact to Nexus
 upload_artifact() {
